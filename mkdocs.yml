@@ -1,9 +1,16 @@
 site_name: Pigs Are Pink - Policies
+copyright: Copyright &copy; 2024 Asa Masterson
+extra:
+    social:
+      - icon: fontawesome/brands/github
+        link: https://github.com/asa-masterson/md_policies
 
 theme:
   name: material
   logo: https://pigsare.pink/assets/openmoji-pig.svg
   favicon: https://pigsare.pink/assets/openmoji-pig.svg
+  features:
+    - navigation.footer
   palette:
 
     # Palette toggle for light mode
